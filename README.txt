@@ -8,7 +8,7 @@
 
 ## قبل النشر
 افتح `script.js` وغيّر:
-`const WHATSAPP_NUMBER = "201555555555";`
+`const WHATSAPP_NUMBER = "01203341917";`
 إلى رقم واتساب المتجر بصيغة دولية بدون + أو مسافات.
 
 ## النشر على GitHub Pages
